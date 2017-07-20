@@ -2,7 +2,7 @@
 
 ## C Programming requirements specification
 
-###Context and problem definition :
+### Context and problem definition :
 
 Rédigez quelques mots pour exposer le fondement de la demande. Vous vous dites peut-être qu'un développeur n'est intéressé que par la partie technique. Détrompez-vous, nombreux sont ceux qui aiment voir la finalité de leur travail. De plus, donner du sens au développement facilite la compréhension de vos besoins et de vos contraintes. Le dialogue plus tard n'en sera que plus facile. Enfin, en définissant le problème - en démontrant ainsi le bien-fondé de votre requête - vous avez plus de chances de voir atterrir votre cahier des charges sur le haut de la pile des dossiers à traiter dans le bureau d'à côté.
 

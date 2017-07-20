@@ -1,25 +1,27 @@
 # C_Programming_Project
 
-C Programming requirements specification
+## C Programming requirements specification
 
-Context and problem definition :
+###Context and problem definition :
 
 Rédigez quelques mots pour exposer le fondement de la demande. Vous vous dites peut-être qu'un développeur n'est intéressé que par la partie technique. Détrompez-vous, nombreux sont ceux qui aiment voir la finalité de leur travail. De plus, donner du sens au développement facilite la compréhension de vos besoins et de vos contraintes. Le dialogue plus tard n'en sera que plus facile. Enfin, en définissant le problème - en démontrant ainsi le bien-fondé de votre requête - vous avez plus de chances de voir atterrir votre cahier des charges sur le haut de la pile des dossiers à traiter dans le bureau d'à côté.
 
 
 Exemple : "on a de plus en plus d'appels techniques à gérer. Aujourd'hui tout est consigné dans un fichier Excel que l'on partage. Et cela pose plein de problèmes : on ne peut pas travailler dessus plusieurs en même temps, c'est pas très aisé de retrouver les contacts précédents... De plus, lorsque l'on doit partager des informations entre collègues du service technique, on le fait par email, mais cela devient vite le fouillis : on ne retrouve pas les messages, chacun possède sa méthode de classement, pas de suivi...). Et comme pour les années à venir la relation client est la priorité stratégique de la société, ce point est à travailler d'urgence."
-Goals : 
+
+### Goals : 
+
 Suite à l'explicitation du contexte, exprimez le niveau de vos attentes et les résultats attendus. Les objectifs seront quantifiés.
 
 "Nous voulons offrir un meilleur service dans nos réponses aux clients à l'aide d'un véritable outil de gestion des demandes. Aujourd'hui le taux de satisfaction est à 60%, nous visons les 80% un an après la mise en place du nouvel outil".
 
-Perimeter :
+### Perimeter :
 
 Fixez ici les limites que vous donnez à votre projet. Tous les clients sont-ils concernés ? Cela implique-t-il tous les collaborateurs ? Toutes les implantations ?...
 
 
 
-Functional Description :
+### Functional Description :
 
 Ce terme peu évocateur pour les non-initiés se résume simplement : décrivez votre besoin en terme de fonctionnalités. En quelques lignes, expliquez ce que doit faire votre application. C'est l'outil de base pour la réalisation.
 Par où commencer cette analyse ? Vous pouvez procéder de la sorte :
@@ -53,7 +55,7 @@ La difficulté de cette tâche est de décrire les fonctions attendues précisé
 Si vous avez en tête une idée du design final, faites une maquette.
 L'exercice peut paraître quelque peu rébarbatif, mais il est essentiel pour la compréhension de votre besoin. De plus, il vous oblige à réfléchir sur ce que vous voulez vraiment.
 
-Time :
+### Time :
 
 Préciser ici les dates de réalisation attendue pour le projet. Avec, si la complexité le demande, des livrables intermédiaires. 
 

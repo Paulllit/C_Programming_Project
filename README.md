@@ -3,6 +3,7 @@
 C Programming requirements specification
 
 Context and problem definition :
+
 Rédigez quelques mots pour exposer le fondement de la demande. Vous vous dites peut-être qu'un développeur n'est intéressé que par la partie technique. Détrompez-vous, nombreux sont ceux qui aiment voir la finalité de leur travail. De plus, donner du sens au développement facilite la compréhension de vos besoins et de vos contraintes. Le dialogue plus tard n'en sera que plus facile. Enfin, en définissant le problème - en démontrant ainsi le bien-fondé de votre requête - vous avez plus de chances de voir atterrir votre cahier des charges sur le haut de la pile des dossiers à traiter dans le bureau d'à côté.
 
 
@@ -13,11 +14,13 @@ Suite à l'explicitation du contexte, exprimez le niveau de vos attentes et les 
 "Nous voulons offrir un meilleur service dans nos réponses aux clients à l'aide d'un véritable outil de gestion des demandes. Aujourd'hui le taux de satisfaction est à 60%, nous visons les 80% un an après la mise en place du nouvel outil".
 
 Perimeter :
+
 Fixez ici les limites que vous donnez à votre projet. Tous les clients sont-ils concernés ? Cela implique-t-il tous les collaborateurs ? Toutes les implantations ?...
 
 
 
 Functional Description :
+
 Ce terme peu évocateur pour les non-initiés se résume simplement : décrivez votre besoin en terme de fonctionnalités. En quelques lignes, expliquez ce que doit faire votre application. C'est l'outil de base pour la réalisation.
 Par où commencer cette analyse ? Vous pouvez procéder de la sorte :
 Partez des fonctions principales et déclinez-les.
@@ -51,6 +54,7 @@ Si vous avez en tête une idée du design final, faites une maquette.
 L'exercice peut paraître quelque peu rébarbatif, mais il est essentiel pour la compréhension de votre besoin. De plus, il vous oblige à réfléchir sur ce que vous voulez vraiment.
 
 Time :
+
 Préciser ici les dates de réalisation attendue pour le projet. Avec, si la complexité le demande, des livrables intermédiaires. 
 
 
